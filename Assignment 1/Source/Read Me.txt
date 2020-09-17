@@ -1,1 +1,34 @@
-You will need a internet connection and a browser that supports html5 such as google chrome or microsoft edge.
+For this project i used Microsoft expression web 4 as i have some experience and find it the easiest to use out of all of them. To access the webpage you will need a browser such as Chrome or Edge.
+The purpose of this project is to get us fammiliar with GitHub so that for future asssignments it has become second nature.
+Abstract
+For this assignment i chose to do a small fact file on the great white shark as it is my favourite animal.
+
+Intro
+I used a simple image of a great white shark. i changed the background colour of the webpage to blue and i changed the text to white.
+
+# Method
+## Tools Used
+The first tool i used was the align text function for the title (align="center") then i made the font size xx-large (style="font-size: xx-large") after that for the Latin name of the shark i put that in italics (<em>carchadon carcharias </em>.)
+For the first paragraph of text i made the font smaller with the tag (style="font-size: x-large".)
+To insert the image i first saved a picture to my computer and then placed it in my webpage at the desired size using the tag (img alt="" height="503" src="gwshark.jpg" width="788".)
+I change the back ground colour and the text colour by using the tag (body style="color: #FFFFFF; background-color: #0000ff".)
+## Programming Language
+The Language i used to write this was html.
+## System Requirements
+A system that supports html5 or above. An internet browser such as chrome or edge. 
+## Environmental Requirements 
+Access to the internet
+## Data Used
+## Purpose of the Development
+# Results
+![Great White Shark Hompage](file:///C:/Users/Aaron/Documents/Internet-Programming/Assignment%201/Source/Internet%20programming.html)
+# Conclusion
+This was a fun assignment that helped me to understand this platform of communication.
+# Future Work
+For future work i think i will utilise these tools often as they are extremely useful>
+# References
+![Great White Shark](file:///C:/Users/Aaron/Documents/Internet-Programming/Assignment%201/Documents/gwshark.jpg)<br>
+[Wikipedia Great White Shark](https://en.wikipedia.org/wiki/Great_white_shark)<br>
+![Font Styles](file:///C:/Users/Aaron/Documents/Internet-Programming/Assignment%201/Documents/font%20colour%20and%20background%20colour.JPG)<br>
+![Inserting image](file:///C:/Users/Aaron/Documents/Internet-Programming/Assignment%201/Documents/image%20insert.JPG)<br>
+![Alignment and Italics](file:///C:/Users/Aaron/Documents/Internet-Programming/Assignment%201/Documents/text%20align%20and%20italics.JPG)
