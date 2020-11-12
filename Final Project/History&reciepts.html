@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>Reciepts/History</title>
+</head>
+
+<body>
+<h1>Donation Complete - Thank You</h1>
+<ul id="checkoutsteps">
+  <li>Most recent Amount-$</li>
+  <li>Billing &amp; Payment</li>
+  <li>Confirmation#-</li>
+  <li class="last currentstep">Receipt</li>
+</ul>
+<p>Thank you for your past Donations.</p>
+  <h2>Billing Address</h2>
+<p>
+  {#receipt.billing.firstName} {#receipt.billing.lastName}<br />
+  {#receipt.billing.address}<br />
+  {#receipt.billing.city}, {#receipt.billing.state} {#receipt.billing.zipCode}<br />
+  {#receipt.billing.country}<br />
+  {#receipt.billing.phone}<br />
+  {#receipt.billing.email}
+</p>
+</body>
+
+</html>
